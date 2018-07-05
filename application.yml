@@ -9,7 +9,7 @@ spring:
     name: myspringcloud-config-cjs-dev
 ---
 spring:
-  profiles: dev
+  profiles: test
   application:
     name: myspringcloud-config-cjs-test
 #请保存UTF-8格式
